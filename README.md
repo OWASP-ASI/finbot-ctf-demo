@@ -4,7 +4,7 @@ Welcome to the **OWASP Agentic AI CTF Demo – FinBot AI Assistant**, an interac
 
 ## Live Instance
 
-👉 **Launch the Live FinBot CTF: [owasp-finbot-ctf.org](http://www.owasp-finbot-ctf.org/)**
+👉 **Launch the Live FinBot CTF: [owasp-finbot-ctf.org](http://owasp-finbot-ctf.org/)**
 
 Redirected to: https://owasp-finbot-ctf-demo.onrender.com
 <br></br>
