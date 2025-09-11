@@ -44,6 +44,12 @@ Built as part of the OWASP GenAI Security Project’s [Agentic Security Initiati
 <br></br>
 
 
+## How To Contribute
+
+- Join OWASP Slack channel (see Pins for meeting details): #team-genai-asi-finbot
+- [Meeting minutes](https://docs.google.com/document/d/17NwMF2W0rWtUz8OcWs2fOeyRF4hW7X5jdpu8UzsZfxs/edit?usp=sharing)
+<br></br>
+
 ## License
 
 Licensed under the Apache License, Version 2.0 (the "License").
