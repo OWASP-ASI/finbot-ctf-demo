@@ -34,13 +34,8 @@ This CTF showcases:
 - Ethical experimentation in a controlled sandbox
 
 Built as part of the OWASP GenAI Security Project’s [Agentic Security Initiative](https://genai.owasp.org/initiatives/#agenticinitiative).
-<br></br>
 
-
-## Project Leads
-
-- **Helen Oakley** [LinkedIn](https://www.linkedin.com/in/helen-oakley/)
-- **Allie Howe** [LinkedIn](https://www.linkedin.com/in/allisonhowe/)
+**Creators:** [**Helen Oakley**](https://www.linkedin.com/in/helen-oakley/) and [**Allie Howe**](https://www.linkedin.com/in/allisonhowe/)
 <br></br>
 
 
